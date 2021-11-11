@@ -1,0 +1,20 @@
+*.pages
+*.pdf
+*.zip
+*.DS_Store
+regression_model.hdf5
+CT\ 3/__pychache__
+CT\ 3/build/
+CT\ 3/dist/
+CT\ 3/CT3
+CT\ 3/CT3.spec
+CT\ 3/requirements.txt
+CT\ 4/instructions.txt
+CT\ 6/rawData.csv
+CT\ 6/test.csv
+Portfolio\ Project/__pychache__
+Portfolio\ Project/Data-Orig
+Portfolio\ Project/Milestones
+Portfolio\ Project/Source\ Documents/
+Portfolio\ Project/mri_process_all.py
+Portfolio\ Project/survey_combinations.py
