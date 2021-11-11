@@ -13,6 +13,7 @@ ___
 <img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/git-icon.svg" />
 <img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/gitkraken.svg" />
 <img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/tensorflow.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/jupyter.svg" />
 <br />
 
 ### Textbook
