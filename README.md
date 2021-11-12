@@ -7,7 +7,6 @@ ___
 ### Languages and Tools
 <!--TODO add links to each icons site -->
 <img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/python.svg" />
-<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/github-octocat.svg" />
 <img align="left" height="32" width="32" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-512x512.png" />
 <img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
 <img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/git-icon.svg" />
