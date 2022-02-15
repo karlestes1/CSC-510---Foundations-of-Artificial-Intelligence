@@ -1,5 +1,7 @@
 *.pages
 *.pdf
+!Portfolio\ Project/Estes_PortfolioPaper_Option1.pdf
+!Portfolio\ Project/Estes_PortfolioProject_Instructions.pdf
 *.zip
 *.DS_Store
 *.jpg
@@ -15,8 +17,10 @@ CT\ 6/rawData.csv
 CT\ 6/test.csv
 CT\ 6/ct6_old.py
 Portfolio\ Project/__pycache__/
-Portfolio\ Project/Data-Orig
+Portfolio\ Project/Data-Orig/
 Portfolio\ Project/Milestones
 Portfolio\ Project/Source\ Documents/
 Portfolio\ Project/mri_process_all.py
 Portfolio\ Project/survey_combinations.py
+Portfolio\ Project/Data/oasis_cross-sectional.csv
+Portfolio\ Project/Data/oasis_filtered.csv

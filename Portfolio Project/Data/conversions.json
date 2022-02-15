@@ -1,0 +1,398 @@
+{
+    "_STATE": {
+        "?": "What State do you live in?",
+        "1" : "Alabama",
+        "2" : "Alaska",
+        "4" : "Arizona",
+        "5" : "Arkansa",
+        "6" : "California",
+        "8" : "Colorado",
+        "9" : "Connecticut",
+        "10" : "Delaware",
+        "11" : "District of Columbia",
+        "12" : "Florida",
+        "13" : "Georgia",
+        "15" : "Hawaii",
+        "16" : "Idaho",
+        "17" : "Illinois",
+        "18" : "Indiana",
+        "19" : "Iowa",
+        "20" : "Kansas",
+        "21" : "Kentucky",
+        "22" : "Louisiana",
+        "23" : "Maine",
+        "24" : "Maryland",
+        "25" : "Massachusetts",
+        "26" : "Michigan",
+        "27" : "Minnesota",
+        "28" : "Mississippi",
+        "29" : "Missouri",
+        "30" : "Montana",
+        "31" : "Nebraska",
+        "32" : "Nevada",
+        "33" : "New Hampshire",
+        "34" : "New Jersey",
+        "35" : "New Mexico",
+        "36" : "New York",
+        "37" : "North Carolina",
+        "38" : "North Dakota",
+        "39" : "Ohio",
+        "40" : "Oklahoma",
+        "41" : "Oregon",
+        "42" : "Pennsylvania",
+        "44" : "Rhode Island",
+        "45" : "South Carolina",
+        "46" : "South Dakota",
+        "47" : "Tennessee",
+        "48" : "Texas",
+        "49" : "Utah",
+        "50" : "Vermont",
+        "51" : "Virginia",
+        "53" : "Washington",
+        "54" : "West Virginia",
+        "55" : "Wisconson",
+        "56" : "Wyoming",
+        "66" : "Guam",
+        "72" : "Puerto Rico"
+    },
+    "DISPCODE": {
+        "1100": "Completed Interview",
+        "1200": "Partial Completed Interview"
+    },
+    "SEXVAR": {
+        "?": "Are you male or female?",
+        "1": "M",
+        "2": "F"
+    },
+    "GENHLTH": {
+        "?": "Would you say that in general your health is: ",
+        "1": "Excellent",
+        "2": "Very Good",
+        "3": "Good",
+        "4": "Fair",
+        "5": "Poor",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "PHYSHLTH": {
+        "?": "Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?",
+        "1": "1-6 Days",
+        "2": "7-13 Days",
+        "3": "14+ Days",
+        "88": "None",
+        "77": "Don't Know/Not Sure",
+        "99": "Refused"
+    },
+    "MENTHLTH": {
+        "?": "Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?",
+        "1": "1-6 Days",
+        "2": "7-13 Days",
+        "3": "14+ Days",
+        "88": "None",
+        "77": "Don't Know/Not Sure",
+        "99": "Refused"
+    },
+    "POORHLTH": {
+        "?": "During the past 30 days, for about how many days did poor physical or mental health keep you from doing your usual activities, such as self-care, work, or recreation?",
+        "1": "1-6 Days",
+        "2": "7-13 Days",
+        "3": "14+ Days",
+        "88": "None",
+        "77": "Don't Know/Not Sure",
+        "99": "Refused"
+    },
+    "EXERANY2": {
+        "?": "During the past month, other than your regular job, did you participate in any physical activites or exercises such as running, calisthenics, golf, gardening, or walking for exercise?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "SLEPTIM1": {
+        "?": "On overage, how many hours of sleep do you get in a 24-hour period?",
+        "1": "1-5 Hours",
+        "2": "6-11 Hours",
+        "3": "12-17 Hours",
+        "4": "18-24 Hours",
+        "77": "Don't Know/Not Sure",
+        "99": "Refused"
+    },
+    "CVDINFR4": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had a heart attack, also called a myocardial infarction?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CVDCRHD4": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had angina or coronary heart disease?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CVDSTRK3": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had a stroke?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "ASTHMA3": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had asthma?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CHCSCNCR": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had skin cancer?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CHCOCNCR": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had any other types of cancer?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CHCCOPD2": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had chronic obstructive pulmonary disease, C.O.P.D, emphysema or chronic bronchitis?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "HAVARTH4": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had some form of arthritis, rheumatoid arthritis, gout, lupus, or fibromyalgia?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "ADDEPEV3": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had a depressive disorder (including depression, major depression, dysthymia, or minor depression)?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CHCKDNY2": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had kidney disease?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "DIABETE4": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had diabetes?",
+        "1": "Yes",
+        "2": "Yes - During Pregnancy",
+        "3": "No",
+        "4": "No - Pre-Diabetic or Borderline",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "PREGNANT": {
+        "?": "To your knowledge, are you now pregnant?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "DEAF": {
+        "?": "Are you deaf or do you have serious difficulty hearing?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "BLIND": {
+        "?": "Are you blind or do you have serious difficulty seeing, even when wearing glasses?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "DECIDE": {
+        "?": "Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "DIFFWALK": {
+        "?": "Do you have serious difficulty walking or climbing stairs?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "DIFFDRES": {
+        "?": "Do you have difficulty dressing or bathing?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "DIFFALON": {
+        "?": "Because of a physical, mental, or emotional condition, do you have difficulty doing errands alone such as visiting a doctor's office or shopping?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "SMOKE100": {
+        "?": "Have you smoked at least 100 cigarettes in your entire life? (Note: 5 pakcs = 100 cigarettes)",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "USENOW3": {
+        "?": "Do you currently use chewing tabacco, snuff, or snus every day, some days, or not at all?",
+        "1": "Every Day",
+        "2": "Some Days",
+        "3": "Not At All",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "FALL12MN": {
+        "?": "In the past 12 months, how many times have you fallen?",
+        "1": "1-9 Times",
+        "2": "10-19 Times",
+        "3": "20-29 Times",
+        "4": "30-39 Times",
+        "5": "40-49 Times",
+        "6": "50-59 Times",
+        "7": "60-69 Times",
+        "8": "70+ Times",
+        "88": "None",
+        "77": "Don't Know/Not Sure",
+        "99": "Refused"
+    },
+    "HIVRISK5": {
+        "?": "Do any of the following situations apply to you? You have injected any drug other than those prescribed for you in the past year. You have been treated for a sexually transmitted disease or STD in the past year. You have given or recieved money or drugs in exchange for sex in the past year.",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "TOLDHEPC": {
+        "?": "Have you ever been told by a doctor or other health professional that you had Hepatitis C?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "HAVEHEPB": {
+        "?": "Has a doctor, nurse, or other health professional ever told you that you had hepatitis B?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CIMEMLOS": {
+        "?": "During the past 12 months, have you experienced confusion or memory loss that is happening more often or is getting worse",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CDASSIST": {
+        "?": "As a result of confusion or memory loss, how often do you need assistance with these day-to-day activities?",
+        "1": "Always",
+        "2": "Usually",
+        "3": "Sometimes",
+        "4": "Rarely",
+        "5": "Never",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "CDSOCIAL": {
+        "?": "During the past 12 months, how often has confusion or memory loss interfered with your ability to work, volunteer, or engage in social activities outside the home?",
+        "1": "Always",
+        "2": "Usually",
+        "3": "Sometimes",
+        "4": "Rarely",
+        "5": "Never",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "ACEDEPRS": {
+        "?": "Did/Do you live with anyone who was depressed, mentally ill, or suicidal?",
+        "1": "Yes",
+        "2": "No",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "ACEHURT1": {
+        "?": "Not including spanking, (before age 18), how often did a parent or adult in your home ever hit, beat, kick, or physically hurt you in any way?",
+        "1": "Never",
+        "2": "Once",
+        "3": "More than once",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "ACETOUCH": {
+        "?": "How often did anyone at least 5 years older than you, or an adult, ever touch you sexually?",
+        "1": "Never",
+        "2": "Once",
+        "3": "More than once",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "ACETTHEM": {
+        "?": "How often did anyone at least 5 years older than you, or an adult, try to make you touch them sexually?",
+        "1": "Never",
+        "2": "Once",
+        "3": "More than once",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "ACEHVSEX": {
+        "?": "How often did anyone at least 5 years older than you, or an adult, force you to have sex?",
+        "1": "Never",
+        "2": "Once",
+        "3": "More than once",
+        "7": "Don't Know/Not Sure",
+        "9": "Refused"
+    },
+    "_RACE": {
+        "?": "What is your race/ethnicity?", 
+        "1": "White Only, None-Hispanic",
+        "2": "Black Only, Non-Hispanic",
+        "3": "American Indian or Alaskan Native Only, Non-Hispanic",
+        "4": "Asian Only, Non-Hispanic",
+        "5": "Native Hawaiian or Other Pacific Islander",
+        "6": "Other Race Only, Non-Hispanic",
+        "7": "Multiracial, Non-Hispanic",
+        "8": "Hispanic",
+        "9": "Don't Know/Not Sure/Refused"
+    },
+    "_AGE_G": {
+        "?": "How old are you?",
+        "1": "Age 18 to 24",
+        "2": "Age 25 to 34",
+        "3": "Age 35 to 44",
+        "4": "Age 45 to 54",
+        "5": "Age 55 to 64",
+        "6": "Age 65 or Older"
+    },
+    "_BMI5CAT": {
+        "?": "Which of the following wheight categories do you fall into?",
+        "1": "Underweight",
+        "2": "Normal Weight",
+        "3": "Overweight",
+        "4": "Obese"
+    },
+    "_RFDRHV7": {
+        "?": "Are you a heavy drinker? (Adult Men - 14 or more drinks per week | Adult Women - 7 or more drinks per week)",
+        "1": "No",
+        "2": "Yes", 
+        "9":"Don't Know/Refused/Missing"
+    }
+}
